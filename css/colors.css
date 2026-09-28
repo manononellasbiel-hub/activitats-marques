@@ -1,3 +1,52 @@
-.ASO {
-    background-color: lightblue;
+.aso {
+    background-color: brown; 
+    color:white
+}
+.bbdd {
+    background-color: rgb(15, 59, 59);
+    color:white
+    
+}
+.hlld {
+    background-color: rgb(38, 169, 86);
+    color:white
+}
+
+.pati {
+    background-color: blue;
+}
+
+.ipo1 {
+    background-color: rgb(13, 56, 42);
+    color:white
+}
+
+.ipo2 {
+    background-color: rgb(36, 27, 16);
+    color:white
+}
+
+.fm {
+    background-color: rgb(159, 97, 4);
+    color:white
+}
+
+.sx {
+    background-color: rgb(55, 36, 12);
+    color:white
+}
+
+.marques {
+    background-color: cadetblue;
+    color:white
+}
+
+.tutoria {
+    background-color: chocolate;
+    color:white
+}
+
+.iso {
+    background-color: rgb(196, 37, 172);
+    color:white
 }
